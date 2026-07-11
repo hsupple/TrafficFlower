@@ -1,0 +1,97 @@
+{
+  "_docs": "Edit these numbers and re-run the sim. Higher weight = stronger pull when an agent chooses which neighbor to walk toward. Attractors are matched from real OSM tags on this map (nodes + ways).",
+
+  "attractors": {
+    "food_high": {
+      "weight": 4.8,
+      "role": "sink",
+      "labels": ["restaurant_high"],
+      "match": {
+        "tf:pull": ["high"]
+      }
+    },
+    "food_low": {
+      "weight": 0.7,
+      "role": "sink",
+      "labels": ["restaurant_low"],
+      "match": {
+        "tf:pull": ["low"]
+      }
+    },
+    "food": {
+      "weight": 2.0,
+      "role": "sink",
+      "labels": ["fast_food", "cafe", "bar", "ice_cream", "pub", "biergarten"],
+      "match": {
+        "amenity": ["fast_food", "cafe", "bar", "ice_cream", "pub", "biergarten"],
+        "shop": ["convenience", "supermarket", "bakery", "confectionery", "greengrocer"]
+      }
+    },
+    "drink": {
+      "weight": 1.4,
+      "labels": ["drinking_water"],
+      "match": {
+        "amenity": ["drinking_water"]
+      }
+    },
+    "park": {
+      "weight": 1.6,
+      "labels": ["park", "garden", "picnic"],
+      "match": {
+        "leisure": ["park", "garden", "picnic_table", "outdoor_seating"]
+      }
+    },
+    "transit": {
+      "weight": 1.8,
+      "labels": ["bus_stop", "platform"],
+      "match": {
+        "highway": ["bus_stop"],
+        "public_transport": ["platform", "stop_position"]
+      }
+    },
+    "library": {
+      "weight": 1.3,
+      "labels": ["library"],
+      "match": {
+        "amenity": ["library"]
+      }
+    },
+    "parking": {
+      "weight": 0,
+      "spawn_weight": 1.5,
+      "role": "source",
+      "labels": ["parking"],
+      "match": {
+        "amenity": ["parking", "parking_entrance"]
+      }
+    },
+    "shop": {
+      "weight": 1.1,
+      "labels": ["books", "gift", "department_store"],
+      "match": {
+        "shop": ["books", "gift", "department_store", "clothes", "computer", "jewelry", "hairdresser"]
+      }
+    },
+    "culture": {
+      "weight": 1.0,
+      "labels": ["theatre", "place_of_worship", "artwork"],
+      "match": {
+        "amenity": ["theatre", "place_of_worship", "arts_centre"],
+        "tourism": ["artwork", "museum", "gallery"]
+      }
+    }
+  },
+
+  "backtrack_penalty": 0.88,
+  "momentum": 2.4,
+  "distance_falloff_meters": 450,
+  "poi_snap_meters": 120,
+  "min_light_hop_meters": 80,
+  "path_sample_agents": 40,
+
+  "throughput": {
+    "_docs": "Sources (parking) bias spawns. Sinks (food) stop agents on arrival. source_spawn_share is the fraction of agents that leave from parking lots.",
+    "source_spawn_share": 0.85,
+    "stop_at_sinks": true
+  }
+}

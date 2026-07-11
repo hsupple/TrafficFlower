@@ -1,0 +1,396 @@
+{
+  "bidirectional": true,
+  "count": 78,
+  "pairs": [
+    {
+      "a": "1000",
+      "b": "1001",
+      "bidirectional": true
+    },
+    {
+      "a": "1000",
+      "b": "1008",
+      "bidirectional": true
+    },
+    {
+      "a": "1001",
+      "b": "1002",
+      "bidirectional": true
+    },
+    {
+      "a": "1001",
+      "b": "1009",
+      "bidirectional": true
+    },
+    {
+      "a": "1002",
+      "b": "1003",
+      "bidirectional": true
+    },
+    {
+      "a": "1002",
+      "b": "1010",
+      "bidirectional": true
+    },
+    {
+      "a": "1003",
+      "b": "1004",
+      "bidirectional": true
+    },
+    {
+      "a": "1004",
+      "b": "1005",
+      "bidirectional": true
+    },
+    {
+      "a": "1004",
+      "b": "1012",
+      "bidirectional": true
+    },
+    {
+      "a": "1005",
+      "b": "1006",
+      "bidirectional": true
+    },
+    {
+      "a": "1005",
+      "b": "1013",
+      "bidirectional": true
+    },
+    {
+      "a": "1006",
+      "b": "1007",
+      "bidirectional": true
+    },
+    {
+      "a": "1006",
+      "b": "1014",
+      "bidirectional": true
+    },
+    {
+      "a": "1008",
+      "b": "1009",
+      "bidirectional": true
+    },
+    {
+      "a": "1008",
+      "b": "1016",
+      "bidirectional": true
+    },
+    {
+      "a": "1009",
+      "b": "1010",
+      "bidirectional": true
+    },
+    {
+      "a": "1009",
+      "b": "1017",
+      "bidirectional": true
+    },
+    {
+      "a": "1010",
+      "b": "1011",
+      "bidirectional": true
+    },
+    {
+      "a": "1010",
+      "b": "1018",
+      "bidirectional": true
+    },
+    {
+      "a": "1011",
+      "b": "1012",
+      "bidirectional": true
+    },
+    {
+      "a": "1011",
+      "b": "1018",
+      "bidirectional": true
+    },
+    {
+      "a": "1012",
+      "b": "1013",
+      "bidirectional": true
+    },
+    {
+      "a": "1012",
+      "b": "1020",
+      "bidirectional": true
+    },
+    {
+      "a": "1013",
+      "b": "1014",
+      "bidirectional": true
+    },
+    {
+      "a": "1013",
+      "b": "1021",
+      "bidirectional": true
+    },
+    {
+      "a": "1014",
+      "b": "1015",
+      "bidirectional": true
+    },
+    {
+      "a": "1014",
+      "b": "1022",
+      "bidirectional": true
+    },
+    {
+      "a": "1016",
+      "b": "1017",
+      "bidirectional": true
+    },
+    {
+      "a": "1016",
+      "b": "1024",
+      "bidirectional": true
+    },
+    {
+      "a": "1017",
+      "b": "1018",
+      "bidirectional": true
+    },
+    {
+      "a": "1017",
+      "b": "1025",
+      "bidirectional": true
+    },
+    {
+      "a": "1018",
+      "b": "1019",
+      "bidirectional": true
+    },
+    {
+      "a": "1018",
+      "b": "1026",
+      "bidirectional": true
+    },
+    {
+      "a": "1019",
+      "b": "1020",
+      "bidirectional": true
+    },
+    {
+      "a": "1019",
+      "b": "1027",
+      "bidirectional": true
+    },
+    {
+      "a": "1020",
+      "b": "1021",
+      "bidirectional": true
+    },
+    {
+      "a": "1020",
+      "b": "1028",
+      "bidirectional": true
+    },
+    {
+      "a": "1020",
+      "b": "1029",
+      "bidirectional": true
+    },
+    {
+      "a": "1021",
+      "b": "1022",
+      "bidirectional": true
+    },
+    {
+      "a": "1021",
+      "b": "1028",
+      "bidirectional": true
+    },
+    {
+      "a": "1021",
+      "b": "1029",
+      "bidirectional": true
+    },
+    {
+      "a": "1022",
+      "b": "1023",
+      "bidirectional": true
+    },
+    {
+      "a": "1022",
+      "b": "1030",
+      "bidirectional": true
+    },
+    {
+      "a": "1023",
+      "b": "1031",
+      "bidirectional": true
+    },
+    {
+      "a": "1024",
+      "b": "1025",
+      "bidirectional": true
+    },
+    {
+      "a": "1024",
+      "b": "1032",
+      "bidirectional": true
+    },
+    {
+      "a": "1025",
+      "b": "1026",
+      "bidirectional": true
+    },
+    {
+      "a": "1025",
+      "b": "1034",
+      "bidirectional": true
+    },
+    {
+      "a": "1026",
+      "b": "1027",
+      "bidirectional": true
+    },
+    {
+      "a": "1026",
+      "b": "1034",
+      "bidirectional": true
+    },
+    {
+      "a": "1027",
+      "b": "1028",
+      "bidirectional": true
+    },
+    {
+      "a": "1027",
+      "b": "1035",
+      "bidirectional": true
+    },
+    {
+      "a": "1028",
+      "b": "1029",
+      "bidirectional": true
+    },
+    {
+      "a": "1028",
+      "b": "1036",
+      "bidirectional": true
+    },
+    {
+      "a": "1029",
+      "b": "1030",
+      "bidirectional": true
+    },
+    {
+      "a": "1030",
+      "b": "1031",
+      "bidirectional": true
+    },
+    {
+      "a": "1030",
+      "b": "1038",
+      "bidirectional": true
+    },
+    {
+      "a": "1031",
+      "b": "1039",
+      "bidirectional": true
+    },
+    {
+      "a": "1032",
+      "b": "1033",
+      "bidirectional": true
+    },
+    {
+      "a": "1032",
+      "b": "1040",
+      "bidirectional": true
+    },
+    {
+      "a": "1033",
+      "b": "1034",
+      "bidirectional": true
+    },
+    {
+      "a": "1034",
+      "b": "1035",
+      "bidirectional": true
+    },
+    {
+      "a": "1034",
+      "b": "1042",
+      "bidirectional": true
+    },
+    {
+      "a": "1035",
+      "b": "1036",
+      "bidirectional": true
+    },
+    {
+      "a": "1035",
+      "b": "1043",
+      "bidirectional": true
+    },
+    {
+      "a": "1036",
+      "b": "1037",
+      "bidirectional": true
+    },
+    {
+      "a": "1036",
+      "b": "1044",
+      "bidirectional": true
+    },
+    {
+      "a": "1037",
+      "b": "1038",
+      "bidirectional": true
+    },
+    {
+      "a": "1038",
+      "b": "1039",
+      "bidirectional": true
+    },
+    {
+      "a": "1038",
+      "b": "1046",
+      "bidirectional": true
+    },
+    {
+      "a": "1039",
+      "b": "1047",
+      "bidirectional": true
+    },
+    {
+      "a": "1040",
+      "b": "1041",
+      "bidirectional": true
+    },
+    {
+      "a": "1041",
+      "b": "1042",
+      "bidirectional": true
+    },
+    {
+      "a": "1042",
+      "b": "1043",
+      "bidirectional": true
+    },
+    {
+      "a": "1043",
+      "b": "1044",
+      "bidirectional": true
+    },
+    {
+      "a": "1044",
+      "b": "1045",
+      "bidirectional": true
+    },
+    {
+      "a": "1045",
+      "b": "1046",
+      "bidirectional": true
+    },
+    {
+      "a": "1046",
+      "b": "1047",
+      "bidirectional": true
+    }
+  ]
+}

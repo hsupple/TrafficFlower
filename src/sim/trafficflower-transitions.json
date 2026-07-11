@@ -1,0 +1,3165 @@
+{
+  "meta": {
+    "agents": 20000,
+    "steps": 20000,
+    "seed": 78,
+    "totalSteps": 4618163,
+    "pairCount": 78,
+    "nodeCount": 48,
+    "attractorCount": 33,
+    "throughput": {
+      "spawnedFromSource": 16947,
+      "stoppedAtSink": 20000,
+      "sourceCount": 8,
+      "sinkCount": 14,
+      "sourceSpawnShare": 0.85
+    },
+    "sessionHops": 4618163,
+    "capturedFrom": 48,
+    "capturedEdges": 154,
+    "locked": true,
+    "capturedAt": "2026-07-11T02:55:47.642Z",
+    "source": "found_capture"
+  },
+  "transitions": [
+    {
+      "from": "1017",
+      "to": "1016",
+      "count": 101326,
+      "probability": 0.5128742439197226
+    },
+    {
+      "from": "1018",
+      "to": "1017",
+      "count": 83647,
+      "probability": 0.374623235983035
+    },
+    {
+      "from": "1001",
+      "to": "1000",
+      "count": 80554,
+      "probability": 0.6790127619400846
+    },
+    {
+      "from": "1006",
+      "to": "1007",
+      "count": 74776,
+      "probability": 0.5491855050749864
+    },
+    {
+      "from": "1002",
+      "to": "1001",
+      "count": 73652,
+      "probability": 0.5560110217793379
+    },
+    {
+      "from": "1012",
+      "to": "1004",
+      "count": 73192,
+      "probability": 0.34113397497145254
+    },
+    {
+      "from": "1030",
+      "to": "1029",
+      "count": 70488,
+      "probability": 0.5210372253925076
+    },
+    {
+      "from": "1020",
+      "to": "1019",
+      "count": 68133,
+      "probability": 0.36714535901926443
+    },
+    {
+      "from": "1024",
+      "to": "1032",
+      "count": 67442,
+      "probability": 0.5427709146513219
+    },
+    {
+      "from": "1012",
+      "to": "1011",
+      "count": 65822,
+      "probability": 0.30678380834750996
+    },
+    {
+      "from": "1011",
+      "to": "1012",
+      "count": 64851,
+      "probability": 0.4541291149345602
+    },
+    {
+      "from": "1032",
+      "to": "1040",
+      "count": 64152,
+      "probability": 0.5810711665443874
+    },
+    {
+      "from": "1005",
+      "to": "1006",
+      "count": 62462,
+      "probability": 0.4691170727310962
+    },
+    {
+      "from": "1018",
+      "to": "1019",
+      "count": 62348,
+      "probability": 0.27923308088837934
+    },
+    {
+      "from": "1029",
+      "to": "1020",
+      "count": 61809,
+      "probability": 0.43372606257938207
+    },
+    {
+      "from": "1035",
+      "to": "1034",
+      "count": 60659,
+      "probability": 0.5146743142229274
+    },
+    {
+      "from": "1012",
+      "to": "1020",
+      "count": 60354,
+      "probability": 0.2812985015497192
+    },
+    {
+      "from": "1004",
+      "to": "1003",
+      "count": 59696,
+      "probability": 0.36038080979432163
+    },
+    {
+      "from": "1005",
+      "to": "1004",
+      "count": 59333,
+      "probability": 0.44561690750142696
+    },
+    {
+      "from": "1003",
+      "to": "1002",
+      "count": 59262,
+      "probability": 0.5940159374530146
+    },
+    {
+      "from": "1004",
+      "to": "1012",
+      "count": 58965,
+      "probability": 0.3559678110681147
+    },
+    {
+      "from": "1020",
+      "to": "1012",
+      "count": 58548,
+      "probability": 0.31549508285059946
+    },
+    {
+      "from": "1011",
+      "to": "1018",
+      "count": 57949,
+      "probability": 0.4057967969860577
+    },
+    {
+      "from": "1016",
+      "to": "1024",
+      "count": 54988,
+      "probability": 0.5238199571326506
+    },
+    {
+      "from": "1029",
+      "to": "1030",
+      "count": 53465,
+      "probability": 0.3751745528289838
+    },
+    {
+      "from": "1025",
+      "to": "1017",
+      "count": 49108,
+      "probability": 0.41338092191656284
+    },
+    {
+      "from": "1034",
+      "to": "1025",
+      "count": 48784,
+      "probability": 0.3552991901182777
+    },
+    {
+      "from": "1028",
+      "to": "1027",
+      "count": 48098,
+      "probability": 0.3466122825475981
+    },
+    {
+      "from": "1004",
+      "to": "1005",
+      "count": 46986,
+      "probability": 0.2836513791375636
+    },
+    {
+      "from": "1036",
+      "to": "1035",
+      "count": 46372,
+      "probability": 0.37705104646057275
+    },
+    {
+      "from": "1019",
+      "to": "1018",
+      "count": 44929,
+      "probability": 0.4774652227972667
+    },
+    {
+      "from": "1006",
+      "to": "1005",
+      "count": 44671,
+      "probability": 0.3280820811116497
+    },
+    {
+      "from": "1027",
+      "to": "1028",
+      "count": 43683,
+      "probability": 0.42346953613494254
+    },
+    {
+      "from": "1017",
+      "to": "1018",
+      "count": 42999,
+      "probability": 0.21764482575354946
+    },
+    {
+      "from": "1002",
+      "to": "1003",
+      "count": 42993,
+      "probability": 0.32456120484656326
+    },
+    {
+      "from": "1024",
+      "to": "1016",
+      "count": 41654,
+      "probability": 0.33522997062492454
+    },
+    {
+      "from": "1003",
+      "to": "1004",
+      "count": 40503,
+      "probability": 0.40598406254698544
+    },
+    {
+      "from": "1032",
+      "to": "1024",
+      "count": 40235,
+      "probability": 0.36443756057353516
+    },
+    {
+      "from": "1031",
+      "to": "1030",
+      "count": 38769,
+      "probability": 0.549221550099874
+    },
+    {
+      "from": "1034",
+      "to": "1026",
+      "count": 38648,
+      "probability": 0.28147759715667425
+    },
+    {
+      "from": "1018",
+      "to": "1011",
+      "count": 38082,
+      "probability": 0.17055485639300796
+    },
+    {
+      "from": "1019",
+      "to": "1020",
+      "count": 36098,
+      "probability": 0.38361725416848214
+    },
+    {
+      "from": "1026",
+      "to": "1018",
+      "count": 35725,
+      "probability": 0.2825383769761869
+    },
+    {
+      "from": "1038",
+      "to": "1030",
+      "count": 35564,
+      "probability": 0.3744485507017488
+    },
+    {
+      "from": "1027",
+      "to": "1026",
+      "count": 34054,
+      "probability": 0.33012456982211236
+    },
+    {
+      "from": "1020",
+      "to": "1029",
+      "count": 33687,
+      "probability": 0.181527684224707
+    },
+    {
+      "from": "1013",
+      "to": "1012",
+      "count": 33400,
+      "probability": 0.34943817873658223
+    },
+    {
+      "from": "1026",
+      "to": "1027",
+      "count": 33205,
+      "probability": 0.2626084480754174
+    },
+    {
+      "from": "1025",
+      "to": "1024",
+      "count": 31878,
+      "probability": 0.2683423684299135
+    },
+    {
+      "from": "1008",
+      "to": "1016",
+      "count": 31785,
+      "probability": 0.4955411430887718
+    },
+    {
+      "from": "1014",
+      "to": "1006",
+      "count": 31782,
+      "probability": 0.3769078424629105
+    },
+    {
+      "from": "1036",
+      "to": "1028",
+      "count": 31342,
+      "probability": 0.2548420145382401
+    },
+    {
+      "from": "1001",
+      "to": "1002",
+      "count": 31285,
+      "probability": 0.26371023483992784
+    },
+    {
+      "from": "1044",
+      "to": "1036",
+      "count": 31199,
+      "probability": 0.5105467279778756
+    },
+    {
+      "from": "1026",
+      "to": "1034",
+      "count": 31147,
+      "probability": 0.24633233947312227
+    },
+    {
+      "from": "1028",
+      "to": "1021",
+      "count": 31079,
+      "probability": 0.22396696597149157
+    },
+    {
+      "from": "1016",
+      "to": "1017",
+      "count": 30846,
+      "probability": 0.29384139080733507
+    },
+    {
+      "from": "1021",
+      "to": "1028",
+      "count": 30811,
+      "probability": 0.39601300721051885
+    },
+    {
+      "from": "1036",
+      "to": "1037",
+      "count": 30401,
+      "probability": 0.2471907371570748
+    },
+    {
+      "from": "1042",
+      "to": "1034",
+      "count": 30218,
+      "probability": 0.6764113354523884
+    },
+    {
+      "from": "1022",
+      "to": "1014",
+      "count": 30118,
+      "probability": 0.2938599486784205
+    },
+    {
+      "from": "1037",
+      "to": "1036",
+      "count": 30001,
+      "probability": 0.6415816599302838
+    },
+    {
+      "from": "1017",
+      "to": "1009",
+      "count": 29909,
+      "probability": 0.15138815073520107
+    },
+    {
+      "from": "1022",
+      "to": "1023",
+      "count": 29430,
+      "probability": 0.2871471641412417
+    },
+    {
+      "from": "1038",
+      "to": "1046",
+      "count": 29037,
+      "probability": 0.30572664960990553
+    },
+    {
+      "from": "1009",
+      "to": "1001",
+      "count": 28933,
+      "probability": 0.33374475153416694
+    },
+    {
+      "from": "1039",
+      "to": "1031",
+      "count": 28522,
+      "probability": 0.6072386629763679
+    },
+    {
+      "from": "1023",
+      "to": "1022",
+      "count": 28119,
+      "probability": 0.7654969645822557
+    },
+    {
+      "from": "1014",
+      "to": "1013",
+      "count": 27109,
+      "probability": 0.32148998493886605
+    },
+    {
+      "from": "1026",
+      "to": "1025",
+      "count": 26366,
+      "probability": 0.20852083547527345
+    },
+    {
+      "from": "1030",
+      "to": "1038",
+      "count": 26290,
+      "probability": 0.19433192395257384
+    },
+    {
+      "from": "1028",
+      "to": "1020",
+      "count": 25648,
+      "probability": 0.18482913682025856
+    },
+    {
+      "from": "1022",
+      "to": "1021",
+      "count": 25497,
+      "probability": 0.24877306300065372
+    },
+    {
+      "from": "1009",
+      "to": "1008",
+      "count": 25458,
+      "probability": 0.2936603146772482
+    },
+    {
+      "from": "1014",
+      "to": "1022",
+      "count": 25432,
+      "probability": 0.3016021725982235
+    },
+    {
+      "from": "1034",
+      "to": "1035",
+      "count": 24948,
+      "probability": 0.18169900367068695
+    },
+    {
+      "from": "1035",
+      "to": "1036",
+      "count": 24676,
+      "probability": 0.2093688220670462
+    },
+    {
+      "from": "1025",
+      "to": "1034",
+      "count": 24231,
+      "probability": 0.20397151419239706
+    },
+    {
+      "from": "1029",
+      "to": "1028",
+      "count": 23997,
+      "probability": 0.16839172812563594
+    },
+    {
+      "from": "1040",
+      "to": "1032",
+      "count": 23578,
+      "probability": 0.9208357742628392
+    },
+    {
+      "from": "1000",
+      "to": "1001",
+      "count": 23423,
+      "probability": 0.5147346445445555
+    },
+    {
+      "from": "1030",
+      "to": "1031",
+      "count": 23379,
+      "probability": 0.1728142278466042
+    },
+    {
+      "from": "1017",
+      "to": "1025",
+      "count": 23331,
+      "probability": 0.11809277959152684
+    },
+    {
+      "from": "1013",
+      "to": "1021",
+      "count": 22542,
+      "probability": 0.23583938398443222
+    },
+    {
+      "from": "1031",
+      "to": "1039",
+      "count": 22141,
+      "probability": 0.31366076867500603
+    },
+    {
+      "from": "1000",
+      "to": "1008",
+      "count": 22082,
+      "probability": 0.48526535545544447
+    },
+    {
+      "from": "1046",
+      "to": "1038",
+      "count": 21961,
+      "probability": 0.6479126714854698
+    },
+    {
+      "from": "1033",
+      "to": "1032",
+      "count": 21911,
+      "probability": 0.51974761012406
+    },
+    {
+      "from": "1044",
+      "to": "1045",
+      "count": 21470,
+      "probability": 0.35133940990688767
+    },
+    {
+      "from": "1021",
+      "to": "1013",
+      "count": 21316,
+      "probability": 0.2739740112849119
+    },
+    {
+      "from": "1010",
+      "to": "1002",
+      "count": 21146,
+      "probability": 0.2797867132404504
+    },
+    {
+      "from": "1007",
+      "to": "1006",
+      "count": 21064,
+      "probability": 1
+    },
+    {
+      "from": "1015",
+      "to": "1014",
+      "count": 21048,
+      "probability": 1
+    },
+    {
+      "from": "1010",
+      "to": "1018",
+      "count": 20675,
+      "probability": 0.2735548234297887
+    },
+    {
+      "from": "1013",
+      "to": "1005",
+      "count": 20542,
+      "probability": 0.21491494214391832
+    },
+    {
+      "from": "1038",
+      "to": "1037",
+      "count": 20374,
+      "probability": 0.2145150931278099
+    },
+    {
+      "from": "1033",
+      "to": "1034",
+      "count": 20246,
+      "probability": 0.48025238987593993
+    },
+    {
+      "from": "1045",
+      "to": "1044",
+      "count": 20155,
+      "probability": 0.6912813829057484
+    },
+    {
+      "from": "1011",
+      "to": "1010",
+      "count": 20003,
+      "probability": 0.1400740880793821
+    },
+    {
+      "from": "1018",
+      "to": "1010",
+      "count": 19815,
+      "probability": 0.08874388108364721
+    },
+    {
+      "from": "1020",
+      "to": "1028",
+      "count": 19443,
+      "probability": 0.10477165566482555
+    },
+    {
+      "from": "1018",
+      "to": "1026",
+      "count": 19391,
+      "probability": 0.08684494565193052
+    },
+    {
+      "from": "1009",
+      "to": "1010",
+      "count": 19221,
+      "probability": 0.2217159599501684
+    },
+    {
+      "from": "1008",
+      "to": "1000",
+      "count": 19172,
+      "probability": 0.29889931714009543
+    },
+    {
+      "from": "1035",
+      "to": "1027",
+      "count": 19146,
+      "probability": 0.16244834929873833
+    },
+    {
+      "from": "1016",
+      "to": "1008",
+      "count": 19141,
+      "probability": 0.1823386520600143
+    },
+    {
+      "from": "1013",
+      "to": "1014",
+      "count": 19098,
+      "probability": 0.19980749513506726
+    },
+    {
+      "from": "1010",
+      "to": "1011",
+      "count": 17926,
+      "probability": 0.237182286084759
+    },
+    {
+      "from": "1047",
+      "to": "1039",
+      "count": 17552,
+      "probability": 0.8465730960304828
+    },
+    {
+      "from": "1028",
+      "to": "1029",
+      "count": 17542,
+      "probability": 0.1264142513295764
+    },
+    {
+      "from": "1043",
+      "to": "1035",
+      "count": 17540,
+      "probability": 0.5495848347172176
+    },
+    {
+      "from": "1022",
+      "to": "1030",
+      "count": 17446,
+      "probability": 0.17021982417968406
+    },
+    {
+      "from": "1027",
+      "to": "1019",
+      "count": 17358,
+      "probability": 0.16827104842227716
+    },
+    {
+      "from": "1037",
+      "to": "1038",
+      "count": 16760,
+      "probability": 0.35841834006971623
+    },
+    {
+      "from": "1006",
+      "to": "1014",
+      "count": 16711,
+      "probability": 0.12273241381336389
+    },
+    {
+      "from": "1028",
+      "to": "1036",
+      "count": 16399,
+      "probability": 0.11817736333107534
+    },
+    {
+      "from": "1041",
+      "to": "1042",
+      "count": 16317,
+      "probability": 0.5062674526838349
+    },
+    {
+      "from": "1041",
+      "to": "1040",
+      "count": 15913,
+      "probability": 0.49373254731616506
+    },
+    {
+      "from": "1010",
+      "to": "1009",
+      "count": 15832,
+      "probability": 0.20947617724500192
+    },
+    {
+      "from": "1002",
+      "to": "1010",
+      "count": 15820,
+      "probability": 0.11942777337409882
+    },
+    {
+      "from": "1034",
+      "to": "1033",
+      "count": 15487,
+      "probability": 0.11279350929324711
+    },
+    {
+      "from": "1012",
+      "to": "1013",
+      "count": 15187,
+      "probability": 0.07078371513131831
+    },
+    {
+      "from": "1024",
+      "to": "1025",
+      "count": 15159,
+      "probability": 0.12199911472375358
+    },
+    {
+      "from": "1030",
+      "to": "1022",
+      "count": 15127,
+      "probability": 0.11181662280831436
+    },
+    {
+      "from": "1036",
+      "to": "1044",
+      "count": 14871,
+      "probability": 0.12091620184411234
+    },
+    {
+      "from": "1025",
+      "to": "1026",
+      "count": 13579,
+      "probability": 0.11430519546112664
+    },
+    {
+      "from": "1035",
+      "to": "1043",
+      "count": 13378,
+      "probability": 0.11350851441128806
+    },
+    {
+      "from": "1008",
+      "to": "1009",
+      "count": 13185,
+      "probability": 0.2055595397711328
+    },
+    {
+      "from": "1021",
+      "to": "1022",
+      "count": 13160,
+      "probability": 0.1691451486446538
+    },
+    {
+      "from": "1009",
+      "to": "1017",
+      "count": 13080,
+      "probability": 0.15087897383841647
+    },
+    {
+      "from": "1019",
+      "to": "1027",
+      "count": 13072,
+      "probability": 0.13891752303425117
+    },
+    {
+      "from": "1021",
+      "to": "1020",
+      "count": 12516,
+      "probability": 0.16086783285991543
+    },
+    {
+      "from": "1005",
+      "to": "1013",
+      "count": 11353,
+      "probability": 0.08526601976747679
+    },
+    {
+      "from": "1046",
+      "to": "1045",
+      "count": 10284,
+      "probability": 0.30340758223926834
+    },
+    {
+      "from": "1038",
+      "to": "1039",
+      "count": 10002,
+      "probability": 0.1053097065605357
+    },
+    {
+      "from": "1031",
+      "to": "1023",
+      "count": 9679,
+      "probability": 0.13711768122512005
+    },
+    {
+      "from": "1034",
+      "to": "1042",
+      "count": 9437,
+      "probability": 0.06873069976111403
+    },
+    {
+      "from": "1042",
+      "to": "1041",
+      "count": 9436,
+      "probability": 0.21121905358821685
+    },
+    {
+      "from": "1039",
+      "to": "1047",
+      "count": 9299,
+      "probability": 0.19797743240366192
+    },
+    {
+      "from": "1039",
+      "to": "1038",
+      "count": 9149,
+      "probability": 0.1947839046199702
+    },
+    {
+      "from": "1043",
+      "to": "1042",
+      "count": 9020,
+      "probability": 0.28262572458091806
+    },
+    {
+      "from": "1045",
+      "to": "1046",
+      "count": 9001,
+      "probability": 0.30871861709425164
+    },
+    {
+      "from": "1023",
+      "to": "1031",
+      "count": 8614,
+      "probability": 0.23450303541774425
+    },
+    {
+      "from": "1044",
+      "to": "1043",
+      "count": 8440,
+      "probability": 0.1381138621152367
+    },
+    {
+      "from": "1027",
+      "to": "1035",
+      "count": 8060,
+      "probability": 0.07813484562066793
+    },
+    {
+      "from": "1001",
+      "to": "1009",
+      "count": 6795,
+      "probability": 0.05727700321998752
+    },
+    {
+      "from": "1032",
+      "to": "1033",
+      "count": 6016,
+      "probability": 0.05449127288207748
+    },
+    {
+      "from": "1020",
+      "to": "1021",
+      "count": 5764,
+      "probability": 0.03106021824060353
+    },
+    {
+      "from": "1043",
+      "to": "1044",
+      "count": 5355,
+      "probability": 0.16778944070186433
+    },
+    {
+      "from": "1042",
+      "to": "1043",
+      "count": 5020,
+      "probability": 0.11236961095939473
+    },
+    {
+      "from": "1029",
+      "to": "1021",
+      "count": 3236,
+      "probability": 0.02270765646599816
+    },
+    {
+      "from": "1047",
+      "to": "1046",
+      "count": 3181,
+      "probability": 0.1534269039695172
+    },
+    {
+      "from": "1040",
+      "to": "1041",
+      "count": 2027,
+      "probability": 0.07916422573716071
+    },
+    {
+      "from": "1046",
+      "to": "1047",
+      "count": 1650,
+      "probability": 0.04867974627526184
+    }
+  ],
+  "spawns": [
+    {
+      "id": "1003",
+      "lat": 40.42,
+      "lon": -86.9131,
+      "kind": "parking",
+      "label": "Lot C South"
+    },
+    {
+      "id": "1003",
+      "lat": 40.42,
+      "lon": -86.9131,
+      "kind": "parking",
+      "label": "Lot C South"
+    },
+    {
+      "id": "1003",
+      "lat": 40.42,
+      "lon": -86.9131,
+      "kind": "parking",
+      "label": "Lot C South"
+    },
+    {
+      "id": "1039",
+      "lat": 40.4276,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot F East"
+    },
+    {
+      "id": "1024",
+      "lat": 40.4257,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot H West"
+    },
+    {
+      "id": "1008",
+      "lat": 40.4219,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot G West"
+    },
+    {
+      "id": "1039",
+      "lat": 40.4276,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot F East"
+    },
+    {
+      "id": "1032",
+      "lat": 40.4276,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot B"
+    },
+    {
+      "id": "1003",
+      "lat": 40.42,
+      "lon": -86.9131,
+      "kind": "parking",
+      "label": "Lot C South"
+    },
+    {
+      "id": "1023",
+      "lat": 40.4238,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot E East"
+    },
+    {
+      "id": "1004",
+      "lat": 40.42,
+      "lon": -86.9108,
+      "kind": "random"
+    },
+    {
+      "id": "1024",
+      "lat": 40.4257,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot H West"
+    },
+    {
+      "id": "1014",
+      "lat": 40.4219,
+      "lon": -86.9062,
+      "kind": "parking",
+      "label": "Lot A"
+    },
+    {
+      "id": "1014",
+      "lat": 40.4219,
+      "lon": -86.9062,
+      "kind": "parking",
+      "label": "Lot A"
+    },
+    {
+      "id": "1030",
+      "lat": 40.4257,
+      "lon": -86.9062,
+      "kind": "random"
+    },
+    {
+      "id": "1003",
+      "lat": 40.42,
+      "lon": -86.9131,
+      "kind": "parking",
+      "label": "Lot C South"
+    },
+    {
+      "id": "1008",
+      "lat": 40.4219,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot G West"
+    },
+    {
+      "id": "1039",
+      "lat": 40.4276,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot F East"
+    },
+    {
+      "id": "1032",
+      "lat": 40.4276,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot B"
+    },
+    {
+      "id": "1008",
+      "lat": 40.4219,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot G West"
+    },
+    {
+      "id": "1001",
+      "lat": 40.42,
+      "lon": -86.9177,
+      "kind": "random"
+    },
+    {
+      "id": "1008",
+      "lat": 40.4219,
+      "lon": -86.92,
+      "kind": "random"
+    },
+    {
+      "id": "1016",
+      "lat": 40.4238,
+      "lon": -86.92,
+      "kind": "random"
+    },
+    {
+      "id": "1024",
+      "lat": 40.4257,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot H West"
+    },
+    {
+      "id": "1024",
+      "lat": 40.4257,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot H West"
+    },
+    {
+      "id": "1008",
+      "lat": 40.4219,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot G West"
+    },
+    {
+      "id": "1003",
+      "lat": 40.42,
+      "lon": -86.9131,
+      "kind": "parking",
+      "label": "Lot C South"
+    },
+    {
+      "id": "1042",
+      "lat": 40.4295,
+      "lon": -86.9154,
+      "kind": "random"
+    },
+    {
+      "id": "1032",
+      "lat": 40.4276,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot B"
+    },
+    {
+      "id": "1023",
+      "lat": 40.4238,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot E East"
+    },
+    {
+      "id": "1017",
+      "lat": 40.4238,
+      "lon": -86.9177,
+      "kind": "random"
+    },
+    {
+      "id": "1014",
+      "lat": 40.4219,
+      "lon": -86.9062,
+      "kind": "parking",
+      "label": "Lot A"
+    },
+    {
+      "id": "1039",
+      "lat": 40.4276,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot F East"
+    },
+    {
+      "id": "1000",
+      "lat": 40.42,
+      "lon": -86.92,
+      "kind": "random"
+    },
+    {
+      "id": "1024",
+      "lat": 40.4257,
+      "lon": -86.92,
+      "kind": "random"
+    },
+    {
+      "id": "1014",
+      "lat": 40.4219,
+      "lon": -86.9062,
+      "kind": "parking",
+      "label": "Lot A"
+    },
+    {
+      "id": "1032",
+      "lat": 40.4276,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot B"
+    },
+    {
+      "id": "1039",
+      "lat": 40.4276,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot F East"
+    },
+    {
+      "id": "1023",
+      "lat": 40.4238,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot E East"
+    },
+    {
+      "id": "1014",
+      "lat": 40.4219,
+      "lon": -86.9062,
+      "kind": "parking",
+      "label": "Lot A"
+    },
+    {
+      "id": "1014",
+      "lat": 40.4219,
+      "lon": -86.9062,
+      "kind": "random"
+    },
+    {
+      "id": "1039",
+      "lat": 40.4276,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot F East"
+    },
+    {
+      "id": "1003",
+      "lat": 40.42,
+      "lon": -86.9131,
+      "kind": "parking",
+      "label": "Lot C South"
+    },
+    {
+      "id": "1023",
+      "lat": 40.4238,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot E East"
+    },
+    {
+      "id": "1045",
+      "lat": 40.4295,
+      "lon": -86.9085,
+      "kind": "random"
+    },
+    {
+      "id": "1003",
+      "lat": 40.42,
+      "lon": -86.9131,
+      "kind": "parking",
+      "label": "Lot C South"
+    },
+    {
+      "id": "1039",
+      "lat": 40.4276,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot F East"
+    },
+    {
+      "id": "1023",
+      "lat": 40.4238,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot E East"
+    },
+    {
+      "id": "1007",
+      "lat": 40.42,
+      "lon": -86.9039,
+      "kind": "random"
+    },
+    {
+      "id": "1008",
+      "lat": 40.4219,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot G West"
+    },
+    {
+      "id": "1039",
+      "lat": 40.4276,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot F East"
+    },
+    {
+      "id": "1003",
+      "lat": 40.42,
+      "lon": -86.9131,
+      "kind": "parking",
+      "label": "Lot C South"
+    },
+    {
+      "id": "1045",
+      "lat": 40.4295,
+      "lon": -86.9085,
+      "kind": "parking",
+      "label": "Lot D North"
+    },
+    {
+      "id": "1039",
+      "lat": 40.4276,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot F East"
+    },
+    {
+      "id": "1045",
+      "lat": 40.4295,
+      "lon": -86.9085,
+      "kind": "parking",
+      "label": "Lot D North"
+    },
+    {
+      "id": "1013",
+      "lat": 40.4219,
+      "lon": -86.9085,
+      "kind": "random"
+    },
+    {
+      "id": "1003",
+      "lat": 40.42,
+      "lon": -86.9131,
+      "kind": "parking",
+      "label": "Lot C South"
+    },
+    {
+      "id": "1045",
+      "lat": 40.4295,
+      "lon": -86.9085,
+      "kind": "parking",
+      "label": "Lot D North"
+    },
+    {
+      "id": "1014",
+      "lat": 40.4219,
+      "lon": -86.9062,
+      "kind": "parking",
+      "label": "Lot A"
+    },
+    {
+      "id": "1023",
+      "lat": 40.4238,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot E East"
+    },
+    {
+      "id": "1008",
+      "lat": 40.4219,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot G West"
+    },
+    {
+      "id": "1037",
+      "lat": 40.4276,
+      "lon": -86.9085,
+      "kind": "random"
+    },
+    {
+      "id": "1003",
+      "lat": 40.42,
+      "lon": -86.9131,
+      "kind": "parking",
+      "label": "Lot C South"
+    },
+    {
+      "id": "1032",
+      "lat": 40.4276,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot B"
+    },
+    {
+      "id": "1014",
+      "lat": 40.4219,
+      "lon": -86.9062,
+      "kind": "parking",
+      "label": "Lot A"
+    },
+    {
+      "id": "1024",
+      "lat": 40.4257,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot H West"
+    },
+    {
+      "id": "1014",
+      "lat": 40.4219,
+      "lon": -86.9062,
+      "kind": "parking",
+      "label": "Lot A"
+    },
+    {
+      "id": "1023",
+      "lat": 40.4238,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot E East"
+    },
+    {
+      "id": "1014",
+      "lat": 40.4219,
+      "lon": -86.9062,
+      "kind": "parking",
+      "label": "Lot A"
+    },
+    {
+      "id": "1024",
+      "lat": 40.4257,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot H West"
+    },
+    {
+      "id": "1039",
+      "lat": 40.4276,
+      "lon": -86.9039,
+      "kind": "random"
+    },
+    {
+      "id": "1023",
+      "lat": 40.4238,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot E East"
+    },
+    {
+      "id": "1008",
+      "lat": 40.4219,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot G West"
+    },
+    {
+      "id": "1023",
+      "lat": 40.4238,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot E East"
+    },
+    {
+      "id": "1032",
+      "lat": 40.4276,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot B"
+    },
+    {
+      "id": "1014",
+      "lat": 40.4219,
+      "lon": -86.9062,
+      "kind": "parking",
+      "label": "Lot A"
+    },
+    {
+      "id": "1039",
+      "lat": 40.4276,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot F East"
+    },
+    {
+      "id": "1024",
+      "lat": 40.4257,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot H West"
+    },
+    {
+      "id": "1001",
+      "lat": 40.42,
+      "lon": -86.9177,
+      "kind": "random"
+    },
+    {
+      "id": "1032",
+      "lat": 40.4276,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot B"
+    },
+    {
+      "id": "1039",
+      "lat": 40.4276,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot F East"
+    },
+    {
+      "id": "1039",
+      "lat": 40.4276,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot F East"
+    },
+    {
+      "id": "1024",
+      "lat": 40.4257,
+      "lon": -86.92,
+      "kind": "random"
+    },
+    {
+      "id": "1024",
+      "lat": 40.4257,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot H West"
+    },
+    {
+      "id": "1013",
+      "lat": 40.4219,
+      "lon": -86.9085,
+      "kind": "random"
+    },
+    {
+      "id": "1023",
+      "lat": 40.4238,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot E East"
+    },
+    {
+      "id": "1024",
+      "lat": 40.4257,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot H West"
+    },
+    {
+      "id": "1014",
+      "lat": 40.4219,
+      "lon": -86.9062,
+      "kind": "parking",
+      "label": "Lot A"
+    },
+    {
+      "id": "1032",
+      "lat": 40.4276,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot B"
+    },
+    {
+      "id": "1008",
+      "lat": 40.4219,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot G West"
+    },
+    {
+      "id": "1014",
+      "lat": 40.4219,
+      "lon": -86.9062,
+      "kind": "parking",
+      "label": "Lot A"
+    },
+    {
+      "id": "1024",
+      "lat": 40.4257,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot H West"
+    },
+    {
+      "id": "1023",
+      "lat": 40.4238,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot E East"
+    },
+    {
+      "id": "1045",
+      "lat": 40.4295,
+      "lon": -86.9085,
+      "kind": "random"
+    },
+    {
+      "id": "1045",
+      "lat": 40.4295,
+      "lon": -86.9085,
+      "kind": "parking",
+      "label": "Lot D North"
+    },
+    {
+      "id": "1045",
+      "lat": 40.4295,
+      "lon": -86.9085,
+      "kind": "parking",
+      "label": "Lot D North"
+    },
+    {
+      "id": "1024",
+      "lat": 40.4257,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot H West"
+    },
+    {
+      "id": "1000",
+      "lat": 40.42,
+      "lon": -86.92,
+      "kind": "random"
+    },
+    {
+      "id": "1008",
+      "lat": 40.4219,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot G West"
+    },
+    {
+      "id": "1014",
+      "lat": 40.4219,
+      "lon": -86.9062,
+      "kind": "parking",
+      "label": "Lot A"
+    },
+    {
+      "id": "1032",
+      "lat": 40.4276,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot B"
+    },
+    {
+      "id": "1021",
+      "lat": 40.4238,
+      "lon": -86.9085,
+      "kind": "random"
+    },
+    {
+      "id": "1039",
+      "lat": 40.4276,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot F East"
+    },
+    {
+      "id": "1003",
+      "lat": 40.42,
+      "lon": -86.9131,
+      "kind": "parking",
+      "label": "Lot C South"
+    },
+    {
+      "id": "1027",
+      "lat": 40.4257,
+      "lon": -86.9131,
+      "kind": "random"
+    },
+    {
+      "id": "1023",
+      "lat": 40.4238,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot E East"
+    },
+    {
+      "id": "1014",
+      "lat": 40.4219,
+      "lon": -86.9062,
+      "kind": "parking",
+      "label": "Lot A"
+    },
+    {
+      "id": "1003",
+      "lat": 40.42,
+      "lon": -86.9131,
+      "kind": "parking",
+      "label": "Lot C South"
+    },
+    {
+      "id": "1024",
+      "lat": 40.4257,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot H West"
+    },
+    {
+      "id": "1008",
+      "lat": 40.4219,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot G West"
+    },
+    {
+      "id": "1008",
+      "lat": 40.4219,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot G West"
+    },
+    {
+      "id": "1039",
+      "lat": 40.4276,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot F East"
+    },
+    {
+      "id": "1041",
+      "lat": 40.4295,
+      "lon": -86.9177,
+      "kind": "random"
+    },
+    {
+      "id": "1003",
+      "lat": 40.42,
+      "lon": -86.9131,
+      "kind": "parking",
+      "label": "Lot C South"
+    },
+    {
+      "id": "1014",
+      "lat": 40.4219,
+      "lon": -86.9062,
+      "kind": "parking",
+      "label": "Lot A"
+    },
+    {
+      "id": "1008",
+      "lat": 40.4219,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot G West"
+    },
+    {
+      "id": "1045",
+      "lat": 40.4295,
+      "lon": -86.9085,
+      "kind": "parking",
+      "label": "Lot D North"
+    },
+    {
+      "id": "1001",
+      "lat": 40.42,
+      "lon": -86.9177,
+      "kind": "random"
+    },
+    {
+      "id": "1045",
+      "lat": 40.4295,
+      "lon": -86.9085,
+      "kind": "parking",
+      "label": "Lot D North"
+    },
+    {
+      "id": "1045",
+      "lat": 40.4295,
+      "lon": -86.9085,
+      "kind": "parking",
+      "label": "Lot D North"
+    },
+    {
+      "id": "1039",
+      "lat": 40.4276,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot F East"
+    },
+    {
+      "id": "1023",
+      "lat": 40.4238,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot E East"
+    },
+    {
+      "id": "1014",
+      "lat": 40.4219,
+      "lon": -86.9062,
+      "kind": "parking",
+      "label": "Lot A"
+    },
+    {
+      "id": "1039",
+      "lat": 40.4276,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot F East"
+    },
+    {
+      "id": "1032",
+      "lat": 40.4276,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot B"
+    },
+    {
+      "id": "1008",
+      "lat": 40.4219,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot G West"
+    },
+    {
+      "id": "1032",
+      "lat": 40.4276,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot B"
+    },
+    {
+      "id": "1032",
+      "lat": 40.4276,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot B"
+    },
+    {
+      "id": "1045",
+      "lat": 40.4295,
+      "lon": -86.9085,
+      "kind": "parking",
+      "label": "Lot D North"
+    },
+    {
+      "id": "1045",
+      "lat": 40.4295,
+      "lon": -86.9085,
+      "kind": "parking",
+      "label": "Lot D North"
+    },
+    {
+      "id": "1020",
+      "lat": 40.4238,
+      "lon": -86.9108,
+      "kind": "random"
+    },
+    {
+      "id": "1003",
+      "lat": 40.42,
+      "lon": -86.9131,
+      "kind": "parking",
+      "label": "Lot C South"
+    },
+    {
+      "id": "1039",
+      "lat": 40.4276,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot F East"
+    },
+    {
+      "id": "1014",
+      "lat": 40.4219,
+      "lon": -86.9062,
+      "kind": "parking",
+      "label": "Lot A"
+    },
+    {
+      "id": "1016",
+      "lat": 40.4238,
+      "lon": -86.92,
+      "kind": "random"
+    },
+    {
+      "id": "1034",
+      "lat": 40.4276,
+      "lon": -86.9154,
+      "kind": "random"
+    },
+    {
+      "id": "1039",
+      "lat": 40.4276,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot F East"
+    },
+    {
+      "id": "1023",
+      "lat": 40.4238,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot E East"
+    },
+    {
+      "id": "1032",
+      "lat": 40.4276,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot B"
+    },
+    {
+      "id": "1020",
+      "lat": 40.4238,
+      "lon": -86.9108,
+      "kind": "random"
+    },
+    {
+      "id": "1039",
+      "lat": 40.4276,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot F East"
+    },
+    {
+      "id": "1032",
+      "lat": 40.4276,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot B"
+    },
+    {
+      "id": "1045",
+      "lat": 40.4295,
+      "lon": -86.9085,
+      "kind": "parking",
+      "label": "Lot D North"
+    },
+    {
+      "id": "1045",
+      "lat": 40.4295,
+      "lon": -86.9085,
+      "kind": "parking",
+      "label": "Lot D North"
+    },
+    {
+      "id": "1042",
+      "lat": 40.4295,
+      "lon": -86.9154,
+      "kind": "random"
+    },
+    {
+      "id": "1032",
+      "lat": 40.4276,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot B"
+    },
+    {
+      "id": "1024",
+      "lat": 40.4257,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot H West"
+    },
+    {
+      "id": "1032",
+      "lat": 40.4276,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot B"
+    },
+    {
+      "id": "1045",
+      "lat": 40.4295,
+      "lon": -86.9085,
+      "kind": "parking",
+      "label": "Lot D North"
+    },
+    {
+      "id": "1039",
+      "lat": 40.4276,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot F East"
+    },
+    {
+      "id": "1023",
+      "lat": 40.4238,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot E East"
+    },
+    {
+      "id": "1008",
+      "lat": 40.4219,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot G West"
+    },
+    {
+      "id": "1014",
+      "lat": 40.4219,
+      "lon": -86.9062,
+      "kind": "parking",
+      "label": "Lot A"
+    },
+    {
+      "id": "1003",
+      "lat": 40.42,
+      "lon": -86.9131,
+      "kind": "parking",
+      "label": "Lot C South"
+    },
+    {
+      "id": "1032",
+      "lat": 40.4276,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot B"
+    },
+    {
+      "id": "1039",
+      "lat": 40.4276,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot F East"
+    },
+    {
+      "id": "1014",
+      "lat": 40.4219,
+      "lon": -86.9062,
+      "kind": "parking",
+      "label": "Lot A"
+    },
+    {
+      "id": "1039",
+      "lat": 40.4276,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot F East"
+    },
+    {
+      "id": "1032",
+      "lat": 40.4276,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot B"
+    },
+    {
+      "id": "1023",
+      "lat": 40.4238,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot E East"
+    },
+    {
+      "id": "1023",
+      "lat": 40.4238,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot E East"
+    },
+    {
+      "id": "1003",
+      "lat": 40.42,
+      "lon": -86.9131,
+      "kind": "parking",
+      "label": "Lot C South"
+    },
+    {
+      "id": "1032",
+      "lat": 40.4276,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot B"
+    },
+    {
+      "id": "1023",
+      "lat": 40.4238,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot E East"
+    },
+    {
+      "id": "1039",
+      "lat": 40.4276,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot F East"
+    },
+    {
+      "id": "1034",
+      "lat": 40.4276,
+      "lon": -86.9154,
+      "kind": "random"
+    },
+    {
+      "id": "1032",
+      "lat": 40.4276,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot B"
+    },
+    {
+      "id": "1003",
+      "lat": 40.42,
+      "lon": -86.9131,
+      "kind": "parking",
+      "label": "Lot C South"
+    },
+    {
+      "id": "1023",
+      "lat": 40.4238,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot E East"
+    },
+    {
+      "id": "1045",
+      "lat": 40.4295,
+      "lon": -86.9085,
+      "kind": "parking",
+      "label": "Lot D North"
+    },
+    {
+      "id": "1024",
+      "lat": 40.4257,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot H West"
+    },
+    {
+      "id": "1045",
+      "lat": 40.4295,
+      "lon": -86.9085,
+      "kind": "parking",
+      "label": "Lot D North"
+    },
+    {
+      "id": "1008",
+      "lat": 40.4219,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot G West"
+    },
+    {
+      "id": "1032",
+      "lat": 40.4276,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot B"
+    },
+    {
+      "id": "1045",
+      "lat": 40.4295,
+      "lon": -86.9085,
+      "kind": "parking",
+      "label": "Lot D North"
+    },
+    {
+      "id": "1024",
+      "lat": 40.4257,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot H West"
+    },
+    {
+      "id": "1024",
+      "lat": 40.4257,
+      "lon": -86.92,
+      "kind": "random"
+    },
+    {
+      "id": "1045",
+      "lat": 40.4295,
+      "lon": -86.9085,
+      "kind": "parking",
+      "label": "Lot D North"
+    },
+    {
+      "id": "1023",
+      "lat": 40.4238,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot E East"
+    },
+    {
+      "id": "1008",
+      "lat": 40.4219,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot G West"
+    },
+    {
+      "id": "1008",
+      "lat": 40.4219,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot G West"
+    },
+    {
+      "id": "1008",
+      "lat": 40.4219,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot G West"
+    },
+    {
+      "id": "1003",
+      "lat": 40.42,
+      "lon": -86.9131,
+      "kind": "parking",
+      "label": "Lot C South"
+    },
+    {
+      "id": "1010",
+      "lat": 40.4219,
+      "lon": -86.9154,
+      "kind": "random"
+    },
+    {
+      "id": "1014",
+      "lat": 40.4219,
+      "lon": -86.9062,
+      "kind": "parking",
+      "label": "Lot A"
+    },
+    {
+      "id": "1024",
+      "lat": 40.4257,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot H West"
+    },
+    {
+      "id": "1024",
+      "lat": 40.4257,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot H West"
+    },
+    {
+      "id": "1045",
+      "lat": 40.4295,
+      "lon": -86.9085,
+      "kind": "parking",
+      "label": "Lot D North"
+    },
+    {
+      "id": "1039",
+      "lat": 40.4276,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot F East"
+    },
+    {
+      "id": "1003",
+      "lat": 40.42,
+      "lon": -86.9131,
+      "kind": "parking",
+      "label": "Lot C South"
+    },
+    {
+      "id": "1003",
+      "lat": 40.42,
+      "lon": -86.9131,
+      "kind": "parking",
+      "label": "Lot C South"
+    },
+    {
+      "id": "1024",
+      "lat": 40.4257,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot H West"
+    },
+    {
+      "id": "1032",
+      "lat": 40.4276,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot B"
+    },
+    {
+      "id": "1039",
+      "lat": 40.4276,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot F East"
+    },
+    {
+      "id": "1023",
+      "lat": 40.4238,
+      "lon": -86.9039,
+      "kind": "parking",
+      "label": "Lot E East"
+    },
+    {
+      "id": "1024",
+      "lat": 40.4257,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot H West"
+    },
+    {
+      "id": "1032",
+      "lat": 40.4276,
+      "lon": -86.92,
+      "kind": "parking",
+      "label": "Lot B"
+    },
+    {
+      "id": "1045",
+      "lat": 40.4295,
+      "lon": -86.9085,
+      "kind": "parking",
+      "label": "Lot D North"
+    },
+    {
+      "id": "1014",
+      "lat": 40.4219,
+      "lon": -86.9062,
+      "kind": "parking",
+      "label": "Lot A"
+    },
+    {
+      "id": "1031",
+      "lat": 40.4257,
+      "lon": -86.9039,
+      "kind": "random"
+    }
+  ],
+  "samplePaths": [
+    [
+      [
+        40.42,
+        -86.9131
+      ],
+      [
+        40.42,
+        -86.9154
+      ],
+      [
+        40.4219,
+        -86.9154
+      ],
+      [
+        40.4238,
+        -86.9154
+      ],
+      [
+        40.4257,
+        -86.9154
+      ],
+      [
+        40.4257,
+        -86.9177
+      ],
+      [
+        40.4257,
+        -86.92
+      ],
+      [
+        40.4238,
+        -86.92
+      ]
+    ],
+    [
+      [
+        40.42,
+        -86.9131
+      ],
+      [
+        40.42,
+        -86.9154
+      ],
+      [
+        40.42,
+        -86.9177
+      ],
+      [
+        40.4219,
+        -86.9177
+      ],
+      [
+        40.4238,
+        -86.9177
+      ],
+      [
+        40.4238,
+        -86.92
+      ]
+    ],
+    [
+      [
+        40.42,
+        -86.9131
+      ],
+      [
+        40.42,
+        -86.9154
+      ],
+      [
+        40.4219,
+        -86.9154
+      ],
+      [
+        40.4219,
+        -86.9131
+      ],
+      [
+        40.4238,
+        -86.9154
+      ],
+      [
+        40.4238,
+        -86.9131
+      ]
+    ],
+    [
+      [
+        40.4276,
+        -86.9039
+      ],
+      [
+        40.4257,
+        -86.9039
+      ]
+    ],
+    [
+      [
+        40.4257,
+        -86.92
+      ],
+      [
+        40.4238,
+        -86.92
+      ]
+    ],
+    [
+      [
+        40.4219,
+        -86.92
+      ],
+      [
+        40.4238,
+        -86.92
+      ]
+    ],
+    [
+      [
+        40.4276,
+        -86.9039
+      ],
+      [
+        40.4295,
+        -86.9039
+      ]
+    ],
+    [
+      [
+        40.4276,
+        -86.92
+      ],
+      [
+        40.4276,
+        -86.9177
+      ],
+      [
+        40.4276,
+        -86.9154
+      ],
+      [
+        40.4257,
+        -86.9154
+      ],
+      [
+        40.4238,
+        -86.9154
+      ],
+      [
+        40.4219,
+        -86.9131
+      ],
+      [
+        40.4219,
+        -86.9108
+      ],
+      [
+        40.42,
+        -86.9108
+      ]
+    ],
+    [
+      [
+        40.42,
+        -86.9131
+      ],
+      [
+        40.42,
+        -86.9154
+      ],
+      [
+        40.4219,
+        -86.9154
+      ],
+      [
+        40.4219,
+        -86.9177
+      ],
+      [
+        40.4219,
+        -86.92
+      ],
+      [
+        40.4238,
+        -86.92
+      ]
+    ],
+    [
+      [
+        40.4238,
+        -86.9039
+      ],
+      [
+        40.4238,
+        -86.9062
+      ],
+      [
+        40.4257,
+        -86.9062
+      ]
+    ],
+    [
+      [
+        40.42,
+        -86.9108
+      ],
+      [
+        40.4219,
+        -86.9108
+      ],
+      [
+        40.4219,
+        -86.9131
+      ],
+      [
+        40.4238,
+        -86.9154
+      ],
+      [
+        40.4238,
+        -86.9131
+      ]
+    ],
+    [
+      [
+        40.4257,
+        -86.92
+      ],
+      [
+        40.4238,
+        -86.92
+      ]
+    ],
+    [
+      [
+        40.4219,
+        -86.9062
+      ],
+      [
+        40.4219,
+        -86.9039
+      ],
+      [
+        40.4219,
+        -86.9062
+      ],
+      [
+        40.4238,
+        -86.9062
+      ],
+      [
+        40.4238,
+        -86.9085
+      ]
+    ],
+    [
+      [
+        40.4219,
+        -86.9062
+      ],
+      [
+        40.4238,
+        -86.9062
+      ],
+      [
+        40.4238,
+        -86.9085
+      ]
+    ],
+    [
+      [
+        40.4257,
+        -86.9062
+      ],
+      [
+        40.4276,
+        -86.9062
+      ],
+      [
+        40.4276,
+        -86.9085
+      ],
+      [
+        40.4276,
+        -86.9108
+      ],
+      [
+        40.4295,
+        -86.9108
+      ],
+      [
+        40.4276,
+        -86.9108
+      ],
+      [
+        40.4257,
+        -86.9108
+      ]
+    ],
+    [
+      [
+        40.42,
+        -86.9131
+      ],
+      [
+        40.42,
+        -86.9154
+      ],
+      [
+        40.4219,
+        -86.9154
+      ],
+      [
+        40.4238,
+        -86.9154
+      ],
+      [
+        40.4219,
+        -86.9154
+      ],
+      [
+        40.42,
+        -86.9154
+      ],
+      [
+        40.42,
+        -86.9131
+      ],
+      [
+        40.42,
+        -86.9108
+      ]
+    ],
+    [
+      [
+        40.4219,
+        -86.92
+      ],
+      [
+        40.42,
+        -86.92
+      ]
+    ],
+    [
+      [
+        40.4276,
+        -86.9039
+      ],
+      [
+        40.4257,
+        -86.9039
+      ]
+    ],
+    [
+      [
+        40.4276,
+        -86.92
+      ],
+      [
+        40.4257,
+        -86.92
+      ],
+      [
+        40.4238,
+        -86.92
+      ]
+    ],
+    [
+      [
+        40.4219,
+        -86.92
+      ],
+      [
+        40.4238,
+        -86.92
+      ]
+    ],
+    [
+      [
+        40.42,
+        -86.9177
+      ],
+      [
+        40.4219,
+        -86.9177
+      ],
+      [
+        40.4238,
+        -86.9177
+      ],
+      [
+        40.4238,
+        -86.9154
+      ],
+      [
+        40.4238,
+        -86.9177
+      ],
+      [
+        40.4219,
+        -86.9177
+      ],
+      [
+        40.4219,
+        -86.9154
+      ],
+      [
+        40.4219,
+        -86.9131
+      ],
+      [
+        40.4238,
+        -86.9154
+      ],
+      [
+        40.4238,
+        -86.9131
+      ]
+    ],
+    [
+      [
+        40.4219,
+        -86.92
+      ],
+      [
+        40.42,
+        -86.92
+      ]
+    ],
+    [
+      [
+        40.4238,
+        -86.92
+      ],
+      [
+        40.4219,
+        -86.92
+      ],
+      [
+        40.42,
+        -86.92
+      ]
+    ],
+    [
+      [
+        40.4257,
+        -86.92
+      ],
+      [
+        40.4238,
+        -86.92
+      ]
+    ],
+    [
+      [
+        40.4257,
+        -86.92
+      ],
+      [
+        40.4257,
+        -86.9177
+      ],
+      [
+        40.4257,
+        -86.9154
+      ],
+      [
+        40.4238,
+        -86.9154
+      ],
+      [
+        40.4219,
+        -86.9154
+      ],
+      [
+        40.4219,
+        -86.9131
+      ],
+      [
+        40.4219,
+        -86.9154
+      ],
+      [
+        40.4219,
+        -86.9177
+      ],
+      [
+        40.4219,
+        -86.92
+      ],
+      [
+        40.42,
+        -86.92
+      ]
+    ],
+    [
+      [
+        40.4219,
+        -86.92
+      ],
+      [
+        40.4219,
+        -86.9177
+      ],
+      [
+        40.4238,
+        -86.9177
+      ],
+      [
+        40.4238,
+        -86.9154
+      ],
+      [
+        40.4257,
+        -86.9154
+      ],
+      [
+        40.4276,
+        -86.9154
+      ],
+      [
+        40.4257,
+        -86.9177
+      ],
+      [
+        40.4257,
+        -86.9154
+      ],
+      [
+        40.4257,
+        -86.9131
+      ]
+    ],
+    [
+      [
+        40.42,
+        -86.9131
+      ],
+      [
+        40.42,
+        -86.9154
+      ],
+      [
+        40.4219,
+        -86.9154
+      ],
+      [
+        40.4238,
+        -86.9154
+      ],
+      [
+        40.4219,
+        -86.9131
+      ],
+      [
+        40.4238,
+        -86.9154
+      ],
+      [
+        40.4219,
+        -86.9154
+      ],
+      [
+        40.42,
+        -86.9154
+      ],
+      [
+        40.4219,
+        -86.9154
+      ],
+      [
+        40.4238,
+        -86.9154
+      ],
+      [
+        40.4257,
+        -86.9154
+      ],
+      [
+        40.4257,
+        -86.9131
+      ]
+    ],
+    [
+      [
+        40.4295,
+        -86.9154
+      ],
+      [
+        40.4276,
+        -86.9154
+      ],
+      [
+        40.4276,
+        -86.9131
+      ],
+      [
+        40.4276,
+        -86.9154
+      ],
+      [
+        40.4257,
+        -86.9177
+      ],
+      [
+        40.4257,
+        -86.9154
+      ],
+      [
+        40.4238,
+        -86.9154
+      ],
+      [
+        40.4257,
+        -86.9154
+      ],
+      [
+        40.4257,
+        -86.9177
+      ],
+      [
+        40.4238,
+        -86.9177
+      ],
+      [
+        40.4219,
+        -86.9177
+      ],
+      [
+        40.42,
+        -86.9177
+      ],
+      [
+        40.42,
+        -86.92
+      ]
+    ],
+    [
+      [
+        40.4276,
+        -86.92
+      ],
+      [
+        40.4257,
+        -86.92
+      ],
+      [
+        40.4238,
+        -86.92
+      ]
+    ],
+    [
+      [
+        40.4238,
+        -86.9039
+      ],
+      [
+        40.4238,
+        -86.9062
+      ],
+      [
+        40.4238,
+        -86.9085
+      ]
+    ],
+    [
+      [
+        40.4238,
+        -86.9177
+      ],
+      [
+        40.4238,
+        -86.9154
+      ],
+      [
+        40.4238,
+        -86.9131
+      ]
+    ],
+    [
+      [
+        40.4219,
+        -86.9062
+      ],
+      [
+        40.4238,
+        -86.9062
+      ],
+      [
+        40.4238,
+        -86.9039
+      ],
+      [
+        40.4238,
+        -86.9062
+      ],
+      [
+        40.4238,
+        -86.9085
+      ]
+    ],
+    [
+      [
+        40.4276,
+        -86.9039
+      ],
+      [
+        40.4276,
+        -86.9062
+      ],
+      [
+        40.4257,
+        -86.9062
+      ]
+    ],
+    [
+      [
+        40.42,
+        -86.92
+      ],
+      [
+        40.42,
+        -86.9177
+      ],
+      [
+        40.42,
+        -86.9154
+      ],
+      [
+        40.42,
+        -86.9177
+      ],
+      [
+        40.42,
+        -86.9154
+      ],
+      [
+        40.42,
+        -86.9177
+      ],
+      [
+        40.42,
+        -86.92
+      ]
+    ],
+    [
+      [
+        40.4257,
+        -86.92
+      ],
+      [
+        40.4257,
+        -86.9177
+      ],
+      [
+        40.4238,
+        -86.9177
+      ],
+      [
+        40.4238,
+        -86.9154
+      ],
+      [
+        40.4238,
+        -86.9131
+      ]
+    ],
+    [
+      [
+        40.4219,
+        -86.9062
+      ],
+      [
+        40.4238,
+        -86.9062
+      ],
+      [
+        40.4257,
+        -86.9062
+      ]
+    ],
+    [
+      [
+        40.4276,
+        -86.92
+      ],
+      [
+        40.4257,
+        -86.92
+      ],
+      [
+        40.4238,
+        -86.92
+      ]
+    ],
+    [
+      [
+        40.4276,
+        -86.9039
+      ],
+      [
+        40.4257,
+        -86.9039
+      ]
+    ],
+    [
+      [
+        40.4238,
+        -86.9039
+      ],
+      [
+        40.4238,
+        -86.9062
+      ],
+      [
+        40.4257,
+        -86.9062
+      ]
+    ],
+    [
+      [
+        40.4219,
+        -86.9062
+      ],
+      [
+        40.4219,
+        -86.9039
+      ],
+      [
+        40.4219,
+        -86.9062
+      ],
+      [
+        40.4219,
+        -86.9085
+      ],
+      [
+        40.42,
+        -86.9085
+      ],
+      [
+        40.42,
+        -86.9108
+      ]
+    ]
+  ]
+}

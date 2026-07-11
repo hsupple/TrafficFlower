@@ -1,0 +1,147 @@
+{
+  "active": "default",
+  "layouts": {
+    "default": {
+      "id": "default",
+      "name": "Default",
+      "spawn": {
+        "mode": "random",
+        "min": 50,
+        "max": 250,
+        "kind": "wander",
+        "color": "#2a6f97"
+      },
+      "signal": {
+        "centerId": "1020",
+        "stopLines": {
+          "1012": "V",
+          "1019": "H",
+          "1021": "H",
+          "1028": "V"
+        },
+        "stopToward": {
+          "1012": "1020",
+          "1019": "1020",
+          "1021": "1020",
+          "1028": "1020"
+        }
+      },
+      "lights": [
+        {
+          "id": "1020",
+          "lat": 40.4238,
+          "lon": -86.9108,
+          "role": "center"
+        },
+        {
+          "id": "1012",
+          "lat": 40.4219,
+          "lon": -86.9108,
+          "role": "stop",
+          "axis": "V"
+        },
+        {
+          "id": "1028",
+          "lat": 40.4257,
+          "lon": -86.9108,
+          "role": "stop",
+          "axis": "V"
+        },
+        {
+          "id": "1019",
+          "lat": 40.4238,
+          "lon": -86.9131,
+          "role": "stop",
+          "axis": "H"
+        },
+        {
+          "id": "1021",
+          "lat": 40.4238,
+          "lon": -86.9085,
+          "role": "stop",
+          "axis": "H"
+        }
+      ]
+    },
+    "layout1": {
+      "id": "layout1",
+      "name": "Layout 1",
+      "spawn": {
+        "mode": "fixed",
+        "groups": [
+          {
+            "ids": [
+              "1004",
+              "1044",
+              "1017",
+              "1022"
+            ],
+            "countEach": 10,
+            "kind": "corner",
+            "color": "#2a6f97"
+          },
+          {
+            "ids": [
+              "1019",
+              "1012"
+            ],
+            "countEach": 4,
+            "kind": "compete",
+            "color": "#c45c26"
+          }
+        ]
+      },
+      "signal": {
+        "centerId": "1020",
+        "stopLines": {
+          "1012": "V",
+          "1019": "H",
+          "1021": "H",
+          "1028": "V"
+        },
+        "stopToward": {
+          "1012": "1020",
+          "1019": "1020",
+          "1021": "1020",
+          "1028": "1020"
+        }
+      },
+      "lights": [
+        {
+          "id": "1020",
+          "lat": 40.4238,
+          "lon": -86.9108,
+          "role": "center"
+        },
+        {
+          "id": "1012",
+          "lat": 40.4219,
+          "lon": -86.9108,
+          "role": "stop",
+          "axis": "V"
+        },
+        {
+          "id": "1028",
+          "lat": 40.4257,
+          "lon": -86.9108,
+          "role": "stop",
+          "axis": "V"
+        },
+        {
+          "id": "1019",
+          "lat": 40.4238,
+          "lon": -86.9131,
+          "role": "stop",
+          "axis": "H"
+        },
+        {
+          "id": "1021",
+          "lat": 40.4238,
+          "lon": -86.9085,
+          "role": "stop",
+          "axis": "H"
+        }
+      ]
+    }
+  }
+}
